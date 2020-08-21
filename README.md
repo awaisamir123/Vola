@@ -1,3 +1,6 @@
+## Version
+- PHP: 7.2
+- Laravel: 6
 ## Installation
 Please follow the steps below to setup the main site (vola) project
 - Clone repository from github: https://github.com/awaisamir123/vola. When done, please select the branch new-design since that is the base code for your project.
@@ -11,3 +14,4 @@ Please follow the steps below to setup the main site (vola) project
 - php artisan migrate --seed
 - php artisan config:cache
 - php artisan server (for run development server)
+- http://localhost:8000/ (open in web browser)
