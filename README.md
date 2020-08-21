@@ -3,7 +3,7 @@
 - Laravel: 6
 ## Installation
 Please follow the steps below to setup the main site (vola) project
-- Clone repository from github: https://github.com/awaisamir123/vola. When done, please select the branch new-design since that is the base code for your project.
+- Clone repository from github: https://github.com/awaisamir123/vola/tree/new-design. When done, please select the branch new-design since that is the base code for your project.
 - Composer install. Open the project folder using your command-line program (we recommend Power shell for Windows) and run the command composer install. Wait for it to be done.
 - Composer dump-autoload. Open the project folder using your command-line program (we recommend Power shell for Windows) and run the command composer dump-autoload.
 - Create a database for the project. Open MySQL and create a database for the project. Write down the name of the database (you will need it next).
