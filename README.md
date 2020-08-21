@@ -11,7 +11,7 @@ Please follow the steps below to setup the main site (vola) project
 - Open you .env file and put the database credential. Please make sure to alter the DB settings according to your local settings.
 ## Laravel setup. Run the following commands (one at a time):
 - php artisan key:generate
-- php artisan migrate --seed
 - php artisan config:cache
+- php artisan migrate --seed
 - php artisan server (for run development server)
 - http://localhost:8000/ (open in web browser)
